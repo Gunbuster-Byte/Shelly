@@ -1,3 +1,2 @@
 # Shelly
-A small shell written for an OS class
-
+A small shell written in C
