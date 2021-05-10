@@ -1,2 +1,2 @@
 # Shelly
-A small shell written in C
+A small shell written in C.
