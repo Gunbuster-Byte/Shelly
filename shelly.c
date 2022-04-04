@@ -9,7 +9,6 @@
 #include <sys/stat.h>
 
 // Shelly, the next-gen bash!
-// Name: Jason Rodriguez
 
 //sturcture for node
 struct node
